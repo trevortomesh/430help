@@ -1,6 +1,6 @@
 # 430help -- An MSP-EXP430G2 Pipeline For Dinguses
 
-[You Dingus!](430help-you-dingus.jpg)
+![You Dingus!](430help-you-dingus.jpg)
 
 Because I am a dingus and keep forgetting how to compile and upload files to
 my beloved MSP-EXP430G2 Launchpad, I'm building this silly little repository for
