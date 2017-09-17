@@ -11,7 +11,7 @@ int main(void) {
   for (;;) {
     volatile unsigned int i;
     P1OUT ^= 0x01; // toggle LED1 (P1.0) on/off, 0b00000001
-    i = 500000;
+    i = 5000;
     do (i--);
     while (i != 0);
   }

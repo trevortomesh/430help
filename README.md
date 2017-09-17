@@ -5,6 +5,8 @@ my beloved MSP-EXP430G2 Launchpad, I'm building this silly little repository for
 myself and for dinguses like myself that need a little help once in a while
 remembering how to do stuff... because dingus.
 
+Eventually, I'll get turn this into a whole MSP-EXP430G2 tutorial repository and it'll be full of cool stuff like how to program the 430 and how to take the chip off-board and do some real neat-o fun junk and whatnot. 
+
 ## Rember to install the dependencies, you dingus!
 
 Install MSP430-GCC:
@@ -38,4 +40,6 @@ Run 430help:
 ```
 $ ./430help <inputFile.c> <outpuFile.o>
 ```
-Make sure the 430help executable is in the same directory as your input file -- and don't forget the "./", dingus!
+Make sure the 430help executable is in the same directory as your input file -- and don't forget the slash-dot out front, dingus!
+
+Look at that! It's even polite enough to exit the mspdebugger for you! Wow!
